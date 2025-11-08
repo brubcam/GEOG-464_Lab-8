@@ -1,0 +1,400 @@
+{
+  "type": "FeatureCollection",
+  "name": "stations",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "EPSG:4326" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "49568",
+        "name": "Montréal-Trudeau Int'l A",
+        "province": "QC",
+        "elevation_m": 36.0,
+        "climate_id": "702S001",
+        "wmo_id": "71627",
+        "tc_id": "CYUL"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.7408, 45.4706] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54157",
+        "name": "Montréal/Mirabel Int'l A",
+        "province": "QC",
+        "elevation_m": 82.0,
+        "climate_id": "7025250",
+        "wmo_id": "71624",
+        "tc_id": "CYMX"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.038, 45.679] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54148",
+        "name": "Trois-Rivières Airport",
+        "province": "QC",
+        "elevation_m": 6.0,
+        "climate_id": "7037000",
+        "wmo_id": "71717",
+        "tc_id": "CYRQ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.6794, 46.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54161",
+        "name": "Québec Jean Lesage Int'l A",
+        "province": "QC",
+        "elevation_m": 74.0,
+        "climate_id": "7041900",
+        "wmo_id": "71714",
+        "tc_id": "CYQB"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.3824, 46.7911] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54147",
+        "name": "Sherbrooke Airport",
+        "province": "QC",
+        "elevation_m": 241.0,
+        "climate_id": "702S004",
+        "wmo_id": "71726",
+        "tc_id": "CYSC"
+      },
+      "geometry": { "type": "Point", "coordinates": [-71.6833, 45.4167] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "49569",
+        "name": "Saint-Hubert Airport",
+        "province": "QC",
+        "elevation_m": 27.0,
+        "climate_id": "702S002",
+        "wmo_id": "71627",
+        "tc_id": "CYHU"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.4169, 45.5167] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54146",
+        "name": "Mont-Tremblant Int'l A",
+        "province": "QC",
+        "elevation_m": 220.0,
+        "climate_id": "7025300",
+        "wmo_id": "71737",
+        "tc_id": "CYFJ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-74.7786, 46.4097] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "49570",
+        "name": "Drummondville",
+        "province": "QC",
+        "elevation_m": 80.0,
+        "climate_id": "7034440",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.4833, 45.8833] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "49085",
+        "name": "Ottawa Macdonald-Cartier Int'l A",
+        "province": "ON",
+        "elevation_m": 114.0,
+        "climate_id": "6105976",
+        "wmo_id": "71628",
+        "tc_id": "CYOW"
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.6728, 45.3225] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "48063",
+        "name": "Kingston Airport",
+        "province": "ON",
+        "elevation_m": 93.0,
+        "climate_id": "6104146",
+        "wmo_id": "71620",
+        "tc_id": "CYGK"
+      },
+      "geometry": { "type": "Point", "coordinates": [-76.5969, 44.2253] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47035",
+        "name": "Toronto Pearson Int'l A",
+        "province": "ON",
+        "elevation_m": 173.0,
+        "climate_id": "6158731",
+        "wmo_id": "71624",
+        "tc_id": "CYYZ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.6306, 43.6777] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47036",
+        "name": "Toronto City Centre",
+        "province": "ON",
+        "elevation_m": 76.0,
+        "climate_id": "6158350",
+        "wmo_id": "71626",
+        "tc_id": "CYTZ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.3962, 43.6275] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47037",
+        "name": "Toronto Buttonville A",
+        "province": "ON",
+        "elevation_m": 198.0,
+        "climate_id": "6158730",
+        "wmo_id": "71629",
+        "tc_id": "CYKZ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.37, 43.86] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47038",
+        "name": "Hamilton Int'l A",
+        "province": "ON",
+        "elevation_m": 237.0,
+        "climate_id": "6153339",
+        "wmo_id": "71627",
+        "tc_id": "CYHM"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.93, 43.17] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47039",
+        "name": "London Int'l A",
+        "province": "ON",
+        "elevation_m": 278.0,
+        "climate_id": "6144474",
+        "wmo_id": "71623",
+        "tc_id": "CYXU"
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.15, 43.03] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47040",
+        "name": "Waterloo-Wellington A",
+        "province": "ON",
+        "elevation_m": 317.0,
+        "climate_id": "6158733",
+        "wmo_id": "71625",
+        "tc_id": "CYKF"
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.38, 43.46] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47041",
+        "name": "Peterborough A",
+        "province": "ON",
+        "elevation_m": 191.0,
+        "climate_id": "6105977",
+        "wmo_id": "71739",
+        "tc_id": "CYPQ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-78.36, 44.23] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47042",
+        "name": "Belleville",
+        "province": "ON",
+        "elevation_m": 100.0,
+        "climate_id": "6100875",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.38, 44.17] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47043",
+        "name": "St. Catharines A",
+        "province": "ON",
+        "elevation_m": 98.0,
+        "climate_id": "6155870",
+        "wmo_id": "71618",
+        "tc_id": "CYSN"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.17, 43.19] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "49571",
+        "name": "Gatineau",
+        "province": "QC",
+        "elevation_m": 61.0,
+        "climate_id": "702S005",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.7167, 45.4833] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54158",
+        "name": "Joliette A",
+        "province": "QC",
+        "elevation_m": 51.0,
+        "climate_id": "7025251",
+        "wmo_id": "71738",
+        "tc_id": "CZBF"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.4333, 46.0167] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54159",
+        "name": "Val-d’Or Airport",
+        "province": "QC",
+        "elevation_m": 337.0,
+        "climate_id": "7053080",
+        "wmo_id": "71733",
+        "tc_id": "CYVO"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.7886, 48.0533] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "48064",
+        "name": "Brockville",
+        "province": "ON",
+        "elevation_m": 92.0,
+        "climate_id": "6100899",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-75.68, 44.59] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "48065",
+        "name": "Trenton A",
+        "province": "ON",
+        "elevation_m": 86.0,
+        "climate_id": "6110492",
+        "wmo_id": "71621",
+        "tc_id": "CYTR"
+      },
+      "geometry": { "type": "Point", "coordinates": [-77.53, 44.12] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "48066",
+        "name": "North Bay Airport",
+        "province": "ON",
+        "elevation_m": 370.0,
+        "climate_id": "6106000",
+        "wmo_id": "71731",
+        "tc_id": "CYYB"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.42, 46.35] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47044",
+        "name": "Toronto Downsview",
+        "province": "ON",
+        "elevation_m": 198.0,
+        "climate_id": "6158660",
+        "wmo_id": "71630",
+        "tc_id": "CYZD"
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.47, 43.74] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "47045",
+        "name": "Barrie",
+        "province": "ON",
+        "elevation_m": 290.0,
+        "climate_id": "6114033",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-79.68, 44.39] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54160",
+        "name": "Montmagny",
+        "province": "QC",
+        "elevation_m": 9.0,
+        "climate_id": "7042700",
+        "wmo_id": "",
+        "tc_id": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [-70.55, 47.0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54162",
+        "name": "Saint-Jean-sur-Richelieu",
+        "province": "QC",
+        "elevation_m": 47.0,
+        "climate_id": "7025252",
+        "wmo_id": "71741",
+        "tc_id": "CYJN"
+      },
+      "geometry": { "type": "Point", "coordinates": [-73.28, 45.31] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station_id": "54163",
+        "name": "La Tuque",
+        "province": "QC",
+        "elevation_m": 160.0,
+        "climate_id": "7036510",
+        "wmo_id": "71742",
+        "tc_id": "CYLQ"
+      },
+      "geometry": { "type": "Point", "coordinates": [-72.78, 47.42] }
+    }
+  ]
+}
