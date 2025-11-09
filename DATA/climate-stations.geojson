@@ -4,8 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "x": -73.43472222,
-        "y": 45.809444444444445,
         "STN_ID": 5237,
         "STATION_NAME": "L'ASSOMPTION",
         "PROV_STATE_TERR_CODE": "QC",
@@ -41,16 +39,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.2605,
-          45.4834
+          -73.43472222,
+          45.809444444444445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.50361111,
-        "y": 46.90277777777778,
         "STN_ID": 5293,
         "STATION_NAME": "VALCARTIER A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -86,16 +82,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.3013,
-          46.541
+          -71.50361111,
+          46.90277777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.82361111,
-        "y": 45.36888888888889,
         "STN_ID": 5397,
         "STATION_NAME": "LENNOXVILLE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -131,16 +125,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.4925,
-          45.2208
+          -71.82361111,
+          45.36888888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -75.99194444,
-        "y": 46.27472222222222,
         "STN_ID": 5606,
         "STATION_NAME": "MANIWAKI AIRPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -176,16 +168,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.5931,
-          46.1629
+          -75.99194444,
+          46.27472222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -60.06166667,
-        "y": 50.16305555555556,
         "STN_ID": 5672,
         "STATION_NAME": "CAPE WHITTLE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -221,16 +211,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -60.0342,
-          50.0947
+          -60.06166667,
+          50.16305555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71,
-        "y": 48.333333333333336,
         "STN_ID": 5889,
         "STATION_NAME": "BAGOTVILLE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -267,15 +255,13 @@
         "type": "Point",
         "coordinates": [
           -71,
-          48.2
+          48.333333333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.16833333,
-        "y": 49.84027777777778,
         "STN_ID": 5903,
         "STATION_NAME": "CHUTE-DES-PASSES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -311,16 +297,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1006,
-          49.5025
+          -71.16833333,
+          49.84027777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.14250028,
-        "y": 48.425003333333336,
         "STN_ID": 5911,
         "STATION_NAME": "JONQUIERE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -356,16 +340,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0833001,
-          48.2530012
+          -71.14250028,
+          48.425003333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.62416861,
-        "y": 47.922224444444446,
         "STN_ID": 5966,
         "STATION_NAME": "PARENT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -401,16 +383,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.3727007,
-          47.5520008
+          -74.62416861,
+          47.922224444444446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -79.10111111,
-        "y": 46.709722222222226,
         "STN_ID": 5977,
         "STATION_NAME": "BARRAGE TEMISCAMINGUE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -446,16 +426,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0604,
-          46.4235
+          -79.10111111,
+          46.709722222222226
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.68333333,
-        "y": 46.36666666666667,
         "STN_ID": 8321,
         "STATION_NAME": "TROIS-RIVIERES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -491,16 +469,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.41,
-          46.22
+          -72.68333333,
+          46.36666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -63.28361111,
-        "y": 51.867222222222225,
         "STN_ID": 8404,
         "STATION_NAME": "LAC EON",
         "PROV_STATE_TERR_CODE": "QC",
@@ -536,16 +512,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.1701,
-          51.5202
+          -63.28361111,
+          51.867222222222225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -59.63944444,
-        "y": 50.465,
         "STN_ID": 8456,
         "STATION_NAME": "CHEVERY",
         "PROV_STATE_TERR_CODE": "QC",
@@ -581,16 +555,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.3822,
-          50.2754
+          -59.63944444,
+          50.465
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.29333333,
-        "y": 49.83861111111111,
         "STN_ID": 8536,
         "STATION_NAME": "PORT-MENIER",
         "PROV_STATE_TERR_CODE": "QC",
@@ -626,16 +598,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.1736,
-          49.5019
+          -64.29333333,
+          49.83861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.54861111,
-        "y": 47.80583333333333,
         "STN_ID": 8539,
         "STATION_NAME": "RIVIERE-DU-LOUP",
         "PROV_STATE_TERR_CODE": "QC",
@@ -671,16 +641,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.3255,
-          47.4821
+          -69.54861111,
+          47.80583333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.55555556,
-        "y": 48.068888888888885,
         "STN_ID": 8674,
         "STATION_NAME": "ILE ROUGE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -716,16 +684,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.332,
-          48.0408
+          -69.55555556,
+          48.068888888888885
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.80833333,
-        "y": 46.99666666666667,
         "STN_ID": 8989,
         "STATION_NAME": "ILE D'ORLEANS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -761,16 +727,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.483,
-          46.5948
+          -70.80833333,
+          46.99666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -65.32472222,
-        "y": 49.25083333333333,
         "STN_ID": 8999,
         "STATION_NAME": "CAP-MADELEINE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -806,16 +770,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.1929,
-          49.1503
+          -65.32472222,
+          49.25083333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.31694444,
-        "y": 48.419444444444444,
         "STN_ID": 9001,
         "STATION_NAME": "CAP-D'ESPOIR",
         "PROV_STATE_TERR_CODE": "QC",
@@ -851,16 +813,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.1901,
-          48.251
+          -64.31694444,
+          48.419444444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -67.38111111,
-        "y": 49.31666666666667,
         "STN_ID": 9029,
         "STATION_NAME": "POINTE-DES-MONTS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -896,16 +856,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.2252,
-          49.19
+          -67.38111111,
+          49.31666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.53305556,
-        "y": 47.07361111111111,
         "STN_ID": 10247,
         "STATION_NAME": "ILE AUX GRUES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -941,16 +899,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3159,
-          47.0425
+          -70.53305556,
+          47.07361111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.65722222,
-        "y": 46.225833333333334,
         "STN_ID": 10732,
         "STATION_NAME": "NICOLET",
         "PROV_STATE_TERR_CODE": "QC",
@@ -986,16 +942,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.3926,
-          46.1333
+          -72.65722222,
+          46.225833333333334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.57916667,
-        "y": 45.50474166666667,
         "STN_ID": 10761,
         "STATION_NAME": "MCTAVISH",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1031,16 +985,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.3445,
-          45.301707
+          -73.57916667,
+          45.50474166666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.67888889,
-        "y": 45.16722222222222,
         "STN_ID": 10762,
         "STATION_NAME": "STE-CLOTILDE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1076,16 +1028,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4044,
-          45.1002
+          -73.67888889,
+          45.16722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -61.77472222,
-        "y": 47.42527777777778,
         "STN_ID": 10763,
         "STATION_NAME": "ILES DE LA MADELEINE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1121,16 +1071,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.4629,
-          47.2531
+          -61.77472222,
+          47.42527777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.51611111,
-        "y": 46.353611111111114,
         "STN_ID": 10764,
         "STATION_NAME": "TROIS-RIVIERES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1166,16 +1114,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.3058,
-          46.2113
+          -72.51611111,
+          46.353611111111114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.79307222,
-        "y": 49.757783333333336,
         "STN_ID": 10791,
         "STATION_NAME": "MATAGAMI",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1211,16 +1157,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.473506,
-          49.452802
+          -77.79307222,
+          49.757783333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.71583333,
-        "y": 48.598333333333336,
         "STN_ID": 10797,
         "STATION_NAME": "MISTOOK",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1256,16 +1200,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.4257,
-          48.3554
+          -71.71583333,
+          48.598333333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.16666667,
-        "y": 45.266666666666666,
         "STN_ID": 10801,
         "STATION_NAME": "LAC MEMPHREMAGOG",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1301,16 +1243,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.1,
-          45.16
+          -72.16666667,
+          45.266666666666666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.85,
-        "y": 45.03333333333333,
         "STN_ID": 10815,
         "STATION_NAME": "FRELIGHSBURG",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1346,16 +1286,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.51,
-          45.02
+          -72.85,
+          45.03333333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.34944444,
-        "y": 45.29388888888889,
         "STN_ID": 10843,
         "STATION_NAME": "L'ACADIE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1391,16 +1329,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.2058,
-          45.1738
+          -73.34944444,
+          45.29388888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -79.03416667,
-        "y": 48.24583333333333,
         "STN_ID": 10849,
         "STATION_NAME": "ROUYN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1436,16 +1372,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.0203,
-          48.1445
+          -79.03416667,
+          48.24583333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.78083333,
-        "y": 47.07861111111111,
         "STN_ID": 10869,
         "STATION_NAME": "CAP-TOURMENTE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1481,16 +1415,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.4651,
-          47.0443
+          -70.78083333,
+          47.07861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.22888889,
-        "y": 47.562222222222225,
         "STN_ID": 10871,
         "STATION_NAME": "L'ETAPE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1526,16 +1458,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1344,
-          47.3344
+          -71.22888889,
+          47.562222222222225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.54694444,
-        "y": 48.84166666666667,
         "STN_ID": 10872,
         "STATION_NAME": "NORMANDIN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1571,16 +1501,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.3249,
-          48.503
+          -72.54694444,
+          48.84166666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.92916667,
-        "y": 45.42722222222222,
         "STN_ID": 10873,
         "STATION_NAME": "STE-ANNE-DE-BELLEVUE 1",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1616,16 +1544,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.5545,
-          45.2538
+          -73.92916667,
+          45.42722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.01305556,
-        "y": 50.72888888888889,
         "STN_ID": 10874,
         "STATION_NAME": "BONNARD 1",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1661,16 +1587,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0047,
-          50.4344
+          -71.01305556,
+          50.72888888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.7875,
-        "y": 47.41111111111111,
         "STN_ID": 10875,
         "STATION_NAME": "LA TUQUE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1706,16 +1630,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.4715,
-          47.244
+          -72.7875,
+          47.41111111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -65.33166667,
-        "y": 48.011944444444445,
         "STN_ID": 10898,
         "STATION_NAME": "NEW CARLISLE 1",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1751,16 +1673,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.1954,
-          48.0043
+          -65.33166667,
+          48.011944444444445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.20722222,
-        "y": 50.22083333333333,
         "STN_ID": 10937,
         "STATION_NAME": "ILE AUX PERROQUETS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1796,16 +1716,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.1226,
-          50.1315
+          -64.20722222,
+          50.22083333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.89277778,
-        "y": 48.41555555555556,
         "STN_ID": 10938,
         "STATION_NAME": "ILE BICQUETTE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1841,16 +1759,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.5334,
-          48.2456
+          -68.89277778,
+          48.41555555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.53527778,
-        "y": 48.37416666666667,
         "STN_ID": 10963,
         "STATION_NAME": "CAP-ROUGE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1886,16 +1802,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3207,
-          48.2227
+          -70.53527778,
+          48.37416666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.11444444,
-        "y": 48.26027777777778,
         "STN_ID": 10964,
         "STATION_NAME": "POINTE CLAVEAU",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1931,16 +1845,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.0652,
-          48.1537
+          -70.11444444,
+          48.26027777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.71638889,
-        "y": 48.135555555555555,
         "STN_ID": 10966,
         "STATION_NAME": "POINTE DE L'ISLET",
         "PROV_STATE_TERR_CODE": "QC",
@@ -1976,16 +1888,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.4259,
-          48.0808
+          -69.71638889,
+          48.135555555555555
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.91666667,
-        "y": 46.18333333333333,
         "STN_ID": 10975,
         "STATION_NAME": "LAC SAINT-PIERRE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2021,16 +1931,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.55,
-          46.11
+          -72.91666667,
+          46.18333333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.22638889,
-        "y": 50.271388888888886,
         "STN_ID": 10977,
         "STATION_NAME": "LONGUE-POINTE-DE-MINGAN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2066,16 +1974,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.1335,
-          50.1617
+          -64.22638889,
+          50.271388888888886
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.28944444,
-        "y": 45.12083333333333,
         "STN_ID": 10982,
         "STATION_NAME": "ST-ANICET 1",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2111,16 +2017,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.1722,
-          45.0715
+          -74.28944444,
+          45.12083333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.785,
-        "y": 46.205,
         "STN_ID": 26777,
         "STATION_NAME": "BEAUCEVILLE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2156,16 +2060,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.4706,
-          46.1218
+          -70.785,
+          46.205
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.11083333,
-        "y": 51.5325,
         "STN_ID": 26778,
         "STATION_NAME": "LAC BENOIT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2201,16 +2103,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0639,
-          51.3157
+          -71.11083333,
+          51.5325
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.35555556,
-        "y": 49.27861111111111,
         "STN_ID": 26797,
         "STATION_NAME": "CHAMOUCHOUANE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2246,16 +2146,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.212,
-          49.1643
+          -73.35555556,
+          49.27861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.53194444,
-        "y": 50.65638888888889,
         "STN_ID": 26798,
         "STATION_NAME": "MANOUANE EST",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2291,16 +2189,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3155,
-          50.3923
+          -70.53194444,
+          50.65638888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.14583333,
-        "y": 49.259166666666665,
         "STN_ID": 26889,
         "STATION_NAME": "BAIE-COMEAU",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2336,16 +2232,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.0845,
-          49.1533
+          -68.14583333,
+          49.259166666666665
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.38166667,
-        "y": 46.80361111111111,
         "STN_ID": 26892,
         "STATION_NAME": "QUEBEC/JEAN LESAGE INTL",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2381,16 +2275,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2254,
-          46.4813
+          -71.38166667,
+          46.80361111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.03194444,
-        "y": 47.35583333333334,
         "STN_ID": 26893,
         "STATION_NAME": "LA POCATIERE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2426,16 +2318,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.0155,
-          47.2121
+          -70.03194444,
+          47.35583333333334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.46833333,
-        "y": 48.513888888888886,
         "STN_ID": 27194,
         "STATION_NAME": "POINTE-AU-PERE (INRS)",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2471,16 +2361,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.2806,
-          48.305
+          -68.46833333,
+          48.513888888888886
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.65444444,
-        "y": 49.10916666666667,
         "STN_ID": 27195,
         "STATION_NAME": "CAP-CHAT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2516,16 +2404,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.3916,
-          49.0633
+          -66.65444444,
+          49.10916666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.03166667,
-        "y": 48.89416666666666,
         "STN_ID": 27294,
         "STATION_NAME": "ONATCHIWAY",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2561,16 +2447,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0154,
-          48.5339
+          -71.03166667,
+          48.89416666666666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.91953694,
-        "y": 48.29810333333333,
         "STN_ID": 27315,
         "STATION_NAME": "LA BAIE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2606,16 +2490,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.5510333,
-          48.1753172
+          -70.91953694,
+          48.29810333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.97166667,
-        "y": 46.69083333333333,
         "STN_ID": 27325,
         "STATION_NAME": "DESCHAMBAULT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2651,16 +2533,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.5818,
-          46.4127
+          -71.97166667,
+          46.69083333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.43388889,
-        "y": 50.1625,
         "STN_ID": 27326,
         "STATION_NAME": "POINTE NOIRE CS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2696,16 +2576,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.2602,
-          50.0945
+          -66.43388889,
+          50.1625
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.2875,
-        "y": 46.780277777777776,
         "STN_ID": 27377,
         "STATION_NAME": "STE-FOY (U. LAVAL)",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2741,16 +2619,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1715,
-          46.4649
+          -71.2875,
+          46.780277777777776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.6375,
-        "y": 47.284166666666664,
         "STN_ID": 27442,
         "STATION_NAME": "CHARLEVOIX (MRC)",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2786,16 +2662,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.3815,
-          47.1703
+          -70.6375,
+          47.284166666666664
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.97527778,
-        "y": 49.8225,
         "STN_ID": 27443,
         "STATION_NAME": "CHAPAIS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2831,16 +2705,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.5831,
-          49.4921
+          -74.97527778,
+          49.8225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.73333333,
-        "y": 46.56333333333333,
         "STN_ID": 27646,
         "STATION_NAME": "SHAWINIGAN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2876,16 +2748,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.44,
-          46.3348
+          -72.73333333,
+          46.56333333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.19722222,
-        "y": 46.83694444444444,
         "STN_ID": 27803,
         "STATION_NAME": "BEAUPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2921,16 +2791,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.115,
-          46.5013
+          -71.19722222,
+          46.83694444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.06083333,
-        "y": 46.30361111111111,
         "STN_ID": 29714,
         "STATION_NAME": "LEMIEUX",
         "PROV_STATE_TERR_CODE": "QC",
@@ -2966,16 +2834,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.0339,
-          46.1813
+          -72.06083333,
+          46.30361111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.74166667,
-        "y": 45.467777777777776,
         "STN_ID": 30165,
         "STATION_NAME": "MONTREAL/PIERRE ELLIOTT TRUDEAU INTL",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3011,16 +2877,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.443,
-          45.2804
+          -73.74166667,
+          45.467777777777776
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.07694444,
-        "y": 58.471944444444446,
         "STN_ID": 30166,
         "STATION_NAME": "INUKJUAK",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3056,16 +2920,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.0437,
-          58.2819
+          -78.07694444,
+          58.471944444444446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -61.81083361,
-        "y": 50.19000111111111,
         "STN_ID": 30168,
         "STATION_NAME": "NATASHQUAN AIRPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3101,16 +2963,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.4839001,
-          50.1124004
+          -61.81083361,
+          50.19000111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.78639083,
-        "y": 48.05639,
         "STN_ID": 30172,
         "STATION_NAME": "VAL-D'OR",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3146,16 +3006,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4711007,
-          48.0323004
+          -77.78639083,
+          48.05639
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.2,
-        "y": 49.13333333333333,
         "STN_ID": 30173,
         "STATION_NAME": "BAIE-COMEAU A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3191,16 +3049,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.12,
-          49.08
+          -68.2,
+          49.13333333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.12916667,
-        "y": 48.30722222222222,
         "STN_ID": 30722,
         "STATION_NAME": "LATERRIERE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3236,16 +3092,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0745,
-          48.1826
+          -71.12916667,
+          48.30722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.14833333,
-        "y": 47.32277777777778,
         "STN_ID": 32413,
         "STATION_NAME": "FORET MONTMORENCY RCS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3281,16 +3135,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0854,
-          47.1922
+          -71.14833333,
+          47.32277777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.77388889,
-        "y": 45.37277777777778,
         "STN_ID": 42013,
         "STATION_NAME": "GRANBY",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3326,16 +3178,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.4626,
-          45.2222
+          -72.77388889,
+          45.37277777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.25,
-        "y": 50.21666666666667,
         "STN_ID": 42683,
         "STATION_NAME": "SEPT-ILES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3371,16 +3221,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.15,
-          50.13
+          -66.25,
+          50.21666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.97583444,
-        "y": 57.90944611111111,
         "STN_ID": 44143,
         "STATION_NAME": "RIVIERE AUX FEUILLES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3416,16 +3264,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.5833004,
-          57.5434006
+          -72.97583444,
+          57.90944611111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.67861111,
-        "y": 53.757222222222225,
         "STN_ID": 44204,
         "STATION_NAME": "LA GRANDE IV",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3461,16 +3307,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4043,
-          53.4526
+          -73.67861111,
+          53.757222222222225
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.26611222,
-        "y": 46.04916722222222,
         "STN_ID": 45309,
         "STATION_NAME": "THETFORD MINES RCS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3506,16 +3350,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.1558004,
-          46.0257002
+          -71.26611222,
+          46.04916722222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.53697778,
-        "y": 45.82535277777778,
         "STN_ID": 47587,
         "STATION_NAME": "SAINT-GERMAIN-DE-GRANTHAM",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3551,16 +3393,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.321312,
-          45.493127
+          -72.53697778,
+          45.82535277777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.09390278,
-        "y": 46.815558333333335,
         "STN_ID": 48188,
         "STATION_NAME": "SAINT-MICHEL-DES-SAINTS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3596,16 +3436,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.053805,
-          46.485601
+          -74.09390278,
+          46.815558333333335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.66840667,
-        "y": 61.31283305555556,
         "STN_ID": 48228,
         "STATION_NAME": "PARC NATIONAL DES PINGUALUIT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3641,16 +3479,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4006264,
-          61.1846199
+          -73.66840667,
+          61.31283305555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.69138889,
-        "y": 45.43861111111111,
         "STN_ID": 48371,
         "STATION_NAME": "SHERBROOKE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3686,16 +3522,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.4129,
-          45.2619
+          -71.69138889,
+          45.43861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.41694444,
-        "y": 45.5175,
         "STN_ID": 48374,
         "STATION_NAME": "MONTREAL/ST-HUBERT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3731,16 +3565,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.2501,
-          45.3103
+          -73.41694444,
+          45.5175
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.20444444,
-        "y": 49.1325,
         "STN_ID": 48968,
         "STATION_NAME": "BAIE-COMEAU",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3776,16 +3608,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.1216,
-          49.0757
+          -68.20444444,
+          49.1325
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -63.61138889,
-        "y": 50.28194444444444,
         "STN_ID": 48970,
         "STATION_NAME": "HAVRE ST. PIERRE",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3821,16 +3651,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.3641,
-          50.1655
+          -63.61138889,
+          50.28194444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -61.78888889,
-        "y": 50.19,
         "STN_ID": 48971,
         "STATION_NAME": "NATASHQUAN A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3866,16 +3694,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.472,
-          50.1124
+          -61.78888889,
+          50.19
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.07694444,
-        "y": 58.471944444444446,
         "STN_ID": 48974,
         "STATION_NAME": "INUKJUAK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3911,16 +3737,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.0437,
-          58.2819
+          -78.07694444,
+          58.471944444444446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.78277778,
-        "y": 48.053333333333335,
         "STN_ID": 49390,
         "STATION_NAME": "VAL D'OR A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -3956,16 +3780,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4658,
-          48.0312
+          -77.78277778,
+          48.053333333333335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.80277778,
-        "y": 49.76166666666666,
         "STN_ID": 49491,
         "STATION_NAME": "MATAGAMI A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4001,16 +3823,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.481,
-          49.4542
+          -77.80277778,
+          49.76166666666666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.03861111,
-        "y": 45.68055555555556,
         "STN_ID": 49608,
         "STATION_NAME": "MONTREAL MIRABEL INTL A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4046,16 +3866,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.0219,
-          45.405
+          -74.03861111,
+          45.68055555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.67527778,
-        "y": 53.75472222222222,
         "STN_ID": 49648,
         "STATION_NAME": "LA GRANDE 4 A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4091,16 +3909,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4031,
-          53.4517
+          -73.67527778,
+          53.75472222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.80527778,
-        "y": 54.805277777777775,
         "STN_ID": 49649,
         "STATION_NAME": "SCHEFFERVILLE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4136,16 +3952,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.4819,
-          54.4819
+          -66.80527778,
+          54.805277777777775
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.83555556,
-        "y": 48.20611111111111,
         "STN_ID": 50090,
         "STATION_NAME": "ROUYN-NORANDA A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4181,16 +3995,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.5008,
-          48.1222
+          -78.83555556,
+          48.20611111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -75.56361111,
-        "y": 45.52166666666667,
         "STN_ID": 50719,
         "STATION_NAME": "OTTAWA GATINEAU A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4226,16 +4038,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.3349,
-          45.3118
+          -75.56361111,
+          45.52166666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.70416667,
-        "y": 53.625277777777775,
         "STN_ID": 50822,
         "STATION_NAME": "LA GRANDE RIVIERE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4271,16 +4081,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4215,
-          53.3731
+          -77.70416667,
+          53.625277777777775
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.2075,
-        "y": 48.60888888888889,
         "STN_ID": 50841,
         "STATION_NAME": "MONT JOLI A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4316,16 +4124,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.1227,
-          48.3632
+          -68.2075,
+          48.60888888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -61.77805556,
-        "y": 47.425,
         "STN_ID": 51139,
         "STATION_NAME": "ILES DE LA MADELEINE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4361,16 +4167,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.4641,
-          47.253
+          -61.77805556,
+          47.425
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.74083333,
-        "y": 45.470555555555556,
         "STN_ID": 51157,
         "STATION_NAME": "MONTREAL INTL A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4406,16 +4210,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.4427,
-          45.2814
+          -73.74083333,
+          45.470555555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.47972222,
-        "y": 48.77527777777778,
         "STN_ID": 51297,
         "STATION_NAME": "GASPE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4451,16 +4253,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.2847,
-          48.4631
+          -64.47972222,
+          48.77527777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.39333333,
-        "y": 46.791111111111114,
         "STN_ID": 51457,
         "STATION_NAME": "QUEBEC INTL A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4496,16 +4296,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.2336,
-          46.4728
+          -71.39333333,
+          46.791111111111114
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.68055556,
-        "y": 46.35166666666667,
         "STN_ID": 51698,
         "STATION_NAME": "TROIS RIVIERES A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4541,16 +4339,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.405,
-          46.2106
+          -72.68055556,
+          46.35166666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.2875,
-        "y": 60.05222222222222,
         "STN_ID": 52038,
         "STATION_NAME": "PUVIRNITUQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4586,16 +4382,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.1715,
-          60.0308
+          -77.2875,
+          60.05222222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.26583333,
-        "y": 48.52,
         "STN_ID": 52080,
         "STATION_NAME": "ROBERVAL A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4631,16 +4425,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.1557,
-          48.3112
+          -72.26583333,
+          48.52
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.75833333,
-        "y": 51.473333333333336,
         "STN_ID": 52081,
         "STATION_NAME": "WASKAGANISH A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4676,16 +4468,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.453,
-          51.2824
+          -78.75833333,
+          51.473333333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.42222222,
-        "y": 58.089444444444446,
         "STN_ID": 52179,
         "STATION_NAME": "KUUJJUAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4721,16 +4511,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.252,
-          58.0522
+          -68.42222222,
+          58.089444444444446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.26555556,
-        "y": 50.223333333333336,
         "STN_ID": 52199,
         "STATION_NAME": "SEPT-ILES A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4766,16 +4554,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.1556,
-          50.1324
+          -66.26555556,
+          50.223333333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.76527778,
-        "y": 55.28194444444444,
         "STN_ID": 52201,
         "STATION_NAME": "KUUJJUARAPIK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4811,16 +4597,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.4555,
-          55.1655
+          -77.76527778,
+          55.28194444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -75.67027944,
-        "y": 62.17944583333333,
         "STN_ID": 52378,
         "STATION_NAME": "SALLUIT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4856,16 +4640,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.4013006,
-          62.1046005
+          -75.67027944,
+          62.17944583333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -75.56361111,
-        "y": 45.52166666666667,
         "STN_ID": 53001,
         "STATION_NAME": "OTTAWA GATINEAU A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4901,16 +4683,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.3349,
-          45.3118
+          -75.56361111,
+          45.52166666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -61.77805556,
-        "y": 47.425,
         "STN_ID": 53002,
         "STATION_NAME": "ILES DE LA MADELEINE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4946,16 +4726,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -61.4641,
-          47.253
+          -61.77805556,
+          47.425
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.75833333,
-        "y": 51.473333333333336,
         "STN_ID": 53018,
         "STATION_NAME": "WASKAGANISH A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -4991,16 +4769,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.453,
-          51.2824
+          -78.75833333,
+          51.473333333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.52805556,
-        "y": 49.77194444444444,
         "STN_ID": 53019,
         "STATION_NAME": "CHIBOUGAMAU CHAPAIS A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5036,16 +4812,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.3141,
-          49.4619
+          -74.52805556,
+          49.77194444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -57.18611111,
-        "y": 51.441944444444445,
         "STN_ID": 53140,
         "STATION_NAME": "LOURDES DE BLANC SABLON A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5081,16 +4855,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.111,
-          51.2631
+          -57.18611111,
+          51.441944444444445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.83111111,
-        "y": 53.010555555555555,
         "STN_ID": 53159,
         "STATION_NAME": "WEMINDJI A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5126,16 +4898,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.4952,
-          53.0038
+          -78.83111111,
+          53.010555555555555
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.5225,
-        "y": 52.22638888888889,
         "STN_ID": 53338,
         "STATION_NAME": "EASTMAIN RIVER A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5171,16 +4941,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.3121,
-          52.1335
+          -78.5225,
+          52.22638888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.56666667,
-        "y": 55.36666666666667,
         "STN_ID": 53978,
         "STATION_NAME": "KUUJJUARAPIK",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5216,16 +4984,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.34,
-          55.22
+          -77.56666667,
+          55.36666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.95583333,
-        "y": 58.66777777777778,
         "STN_ID": 54018,
         "STATION_NAME": "TASIUJAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5261,16 +5027,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5721,
-          58.4004
+          -69.95583333,
+          58.66777777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.95583333,
-        "y": 58.66777777777778,
         "STN_ID": 54019,
         "STATION_NAME": "TASIUJAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5306,16 +5070,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5721,
-          58.4004
+          -69.95583333,
+          58.66777777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.59972222,
-        "y": 59.29666666666667,
         "STN_ID": 54058,
         "STATION_NAME": "AUPALUK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5351,16 +5113,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.3559,
-          59.1748
+          -69.59972222,
+          59.29666666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.61777778,
-        "y": 61.04638888888889,
         "STN_ID": 54059,
         "STATION_NAME": "QUAQTAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5396,16 +5156,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.3704,
-          61.0247
+          -69.61777778,
+          61.04638888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.61777778,
-        "y": 61.04638888888889,
         "STN_ID": 54060,
         "STATION_NAME": "QUAQTAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5441,16 +5199,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.3704,
-          61.0247
+          -69.61777778,
+          61.04638888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.92944444,
-        "y": 61.58861111111111,
         "STN_ID": 54061,
         "STATION_NAME": "KANGIQSUJUAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5486,16 +5242,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.5546,
-          61.3519
+          -71.92944444,
+          61.58861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.92944444,
-        "y": 61.58861111111111,
         "STN_ID": 54062,
         "STATION_NAME": "KANGIQSUJUAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5531,16 +5285,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.5546,
-          61.3519
+          -71.92944444,
+          61.58861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -75.66722222,
-        "y": 62.17944444444444,
         "STN_ID": 54064,
         "STATION_NAME": "SALLUIT A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5576,16 +5328,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.4002,
-          62.1046
+          -75.66722222,
+          62.17944444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -77.92527778,
-        "y": 62.41722222222222,
         "STN_ID": 54066,
         "STATION_NAME": "IVUJIVIK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5621,16 +5371,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5531,
-          62.2502
+          -77.92527778,
+          62.41722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.14861111,
-        "y": 60.81861111111111,
         "STN_ID": 54067,
         "STATION_NAME": "AKULIVIK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5666,16 +5414,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.0855,
-          60.4907
+          -78.14861111,
+          60.81861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -78.14861111,
-        "y": 60.81861111111111,
         "STN_ID": 54068,
         "STATION_NAME": "AKULIVIK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5711,16 +5457,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.0855,
-          60.4907
+          -78.14861111,
+          60.81861111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -76.51833333,
-        "y": 56.53611111111111,
         "STN_ID": 54070,
         "STATION_NAME": "UMIUJAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5756,16 +5500,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.3106,
-          56.321
+          -76.51833333,
+          56.53611111111111
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.99916667,
-        "y": 60.02722222222222,
         "STN_ID": 54071,
         "STATION_NAME": "KANGIRSUK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5801,16 +5543,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5957,
-          60.0138
+          -69.99916667,
+          60.02722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.99916667,
-        "y": 60.02722222222222,
         "STN_ID": 54072,
         "STATION_NAME": "KANGIRSUK A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5846,16 +5586,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.5957,
-          60.0138
+          -69.99916667,
+          60.02722222222222
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -65.99277778,
-        "y": 58.71138888888889,
         "STN_ID": 54074,
         "STATION_NAME": "KANGIQSUALUJJUAQ A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5891,16 +5629,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.5934,
-          58.4241
+          -65.99277778,
+          58.71138888888889
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -68.19463389,
-        "y": 48.604416944444445,
         "STN_ID": 54118,
         "STATION_NAME": "MONT-JOLI",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5936,16 +5672,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.1140682,
-          48.3615901
+          -68.19463389,
+          48.604416944444445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -57.18611111,
-        "y": 51.441944444444445,
         "STN_ID": 54298,
         "STATION_NAME": "LOURDES DE BLANC SABLON A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -5981,16 +5715,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.111,
-          51.2631
+          -57.18611111,
+          51.441944444444445
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.47972222,
-        "y": 48.77527777777778,
         "STN_ID": 54299,
         "STATION_NAME": "GASPE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6026,16 +5758,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.2847,
-          48.4631
+          -64.47972222,
+          48.77527777777778
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -72.26583333,
-        "y": 48.52,
         "STN_ID": 54300,
         "STATION_NAME": "ROBERVAL A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6071,16 +5801,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.1557,
-          48.3112
+          -72.26583333,
+          48.52
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -67.252525,
-        "y": 48.30863166666666,
         "STN_ID": 54558,
         "STATION_NAME": "CAUSAPSCAL AIRPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6116,16 +5844,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -67.150909,
-          48.1831074
+          -67.252525,
+          48.30863166666666
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -65.841945,
-        "y": 48.15640666666667,
         "STN_ID": 54559,
         "STATION_NAME": "NEW RICHMOND EAST",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6161,16 +5887,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.5031002,
-          48.0923064
+          -65.841945,
+          48.15640666666667
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.53029667,
-        "y": 49.77723833333334,
         "STN_ID": 54599,
         "STATION_NAME": "CHIBOUGAMAU-CHAPAIS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6206,16 +5930,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.3149068,
-          49.4638058
+          -74.53029667,
+          49.77723833333334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -69.52277778,
-        "y": 48.25805555555556,
         "STN_ID": 54698,
         "STATION_NAME": "GRANDES-BERGERONNES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6251,16 +5973,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -69.3122,
-          48.1529
+          -69.52277778,
+          48.25805555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -66.80445333,
-        "y": 54.80252,
         "STN_ID": 54878,
         "STATION_NAME": "SCHEFFERVILLE COTE-NORD",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6296,16 +6016,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -66.4816032,
-          54.4809072
+          -66.80445333,
+          54.80252
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -64.48333333,
-        "y": 48.78333333333333,
         "STN_ID": 54918,
         "STATION_NAME": "GASPE AIRPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6341,16 +6059,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.29,
-          48.47
+          -64.48333333,
+          48.78333333333333
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.93252389,
-        "y": 45.606136666666664,
         "STN_ID": 54938,
         "STATION_NAME": "NANTES",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6386,16 +6102,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.5557086,
-          45.3622092
+          -70.93252389,
+          45.606136666666664
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.20696111,
-        "y": 46.4944575,
         "STN_ID": 55158,
         "STATION_NAME": "SAINT-CAMILLE-DE-LELLIS",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6431,16 +6145,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.122506,
-          46.2940047
+          -70.20696111,
+          46.4944575
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.99638889,
-        "y": 48.330555555555556,
         "STN_ID": 55359,
         "STATION_NAME": "BAGOTVILLE AIRPORT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6476,16 +6188,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.5947,
-          48.195
+          -70.99638889,
+          48.330555555555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -71.05055556,
-        "y": 48.520833333333336,
         "STN_ID": 55459,
         "STATION_NAME": "CHICOUTIMI ST-HONORE A",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6521,16 +6231,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.0302,
-          48.3115
+          -71.05055556,
+          48.520833333333336
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -73.28166667,
-        "y": 45.294444444444444,
         "STN_ID": 55461,
         "STATION_NAME": "ST JEAN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6566,16 +6274,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.1654,
-          45.174
+          -73.28166667,
+          45.294444444444444
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -74.55612694,
-        "y": 46.08040805555556,
         "STN_ID": 55678,
         "STATION_NAME": "MONT-TREMBLANT",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6611,16 +6317,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.3322057,
-          46.0449469
+          -74.55612694,
+          46.08040805555556
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "x": -70.89636944,
-        "y": 46.9157,
         "STN_ID": 55779,
         "STATION_NAME": "ILE D'ORLEANS - QUAI DE ST-JEAN",
         "PROV_STATE_TERR_CODE": "QC",
@@ -6655,8 +6359,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -70.534693,
-          46.545652
+          -70.89636944,
+          46.9157
         ]
       }
     }

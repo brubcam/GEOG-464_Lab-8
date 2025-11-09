@@ -9,7 +9,7 @@ osm.addTo(map);
 
 // PART 1
 // Load GeoJSON of weather stations
-const stationsURL = "https://raw.githubusercontent.com/brubcam/GEOG-464_Lab-8/refs/heads/main/DATA/stations.geojson";
+const stationsURL = "https://raw.githubusercontent.com/brubcam/GEOG-464_Lab-8/refs/heads/main/DATA/climate-stations.geojson";
 
 // Fetch GeoJSON and add to map
 fetch(stationsURL)
@@ -26,18 +26,18 @@ fetch(stationsURL)
 function onEachStation(feature, layer) {
   const props = feature.properties;
   const popup = `
-    <strong>${props.name}</strong><br>
-    Province: ${props.province}<br>
-    Station ID: ${props.climate_id}<br>
-    Elevation: ${props.elevation_m} m
+    <strong>${props.STATION_NAME}</strong><br>
+    Province: ${props.ENG_PROV_NAME}<br>
+    Station ID: ${props.STN_ID}<br>
+    Elevation: ${props.ELEVATION} m
   `;
   layer.bindPopup(popup);
 
   // Fetch API data on click
   layer.on("click", () => {
-    document.getElementById("station-name").innerText = props.name;
+    document.getElementById("station-name").innerText = props.STATION_NAME;
     document.getElementById("climate-data").innerHTML = "<p>Loading climate data...</p>";
-    fetchClimateData(props.climate_id);
+    fetchClimateData(props.CLIMATE_IDENTIFIER);
   });
 }
 
